@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27104349/README.md)
 # historyDownload.py
 
 ## Requirements
